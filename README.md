@@ -1,8 +1,8 @@
-### Summarizing-Text-from-Youtube-or-any-Unstructured-URL
+# Summarizing-Text-from-Youtube-or-any-Unstructured-URL
 
 This project is a Streamlit-based web application that allows users to summarize content from YouTube videos or websites using LangChain and Groq's Gemma-7b-It model. It leverages the Groq API to generate summaries of the provided content in a concise and structured manner.
 
-## Features:
+# Features:
 
 # Summarization from YouTube or Website URLs:
 Input a YouTube video URL or any website URL, and the app will provide a 300-word summary.
